@@ -2,7 +2,7 @@
 
 ## Description
 
-description
+Just a PoC to play with new NestJs v5 (RC2) and mongoose.
 
 ## Installation
 
